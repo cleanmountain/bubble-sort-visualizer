@@ -1,4 +1,4 @@
-# bubble-sort-visualizer
+# Bubble Sort Visualizer
 Visualization of the Bubble Sort algorithm in Python using Turtle module
 
 <br>
